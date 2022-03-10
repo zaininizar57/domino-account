@@ -260,7 +260,7 @@ for (let i = 0; i < account.account.length; i++) {
   const pId = document.createElement("p");
 
   const colNick = document.createElement("td");
-  colNick.setAttribute("class", "pl-24");
+  colNick.setAttribute("class", "");
 
   const divNick = document.createElement("div");
   divNick.setAttribute("class", "flex items-center");
