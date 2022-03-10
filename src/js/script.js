@@ -1,7 +1,7 @@
 const account = {
   account: [
     {
-      id: "1232114",
+      id: "12321143",
       nickname: "J Nasution",
     },
     {
@@ -89,7 +89,7 @@ for (let i = 0; i < account.account.length; i++) {
   const btnCopy = document.createElement("button");
   btnCopy.setAttribute(
     "class",
-    "focus:ring-2 focus:ring-offset-2 focus:ring-red-300 text-sm leading-none text-gray-600 py-3 px-5 bg-gray-100 rounded hover:bg-gray-200 focus:outline-none"
+    "ml-auto focus:ring-2 focus:ring-offset-2 focus:ring-red-300 text-sm leading-none text-gray-600 py-3 px-5 bg-gray-100 rounded hover:bg-gray-200 focus:outline-none"
   );
   btnCopy.setAttribute("id", "btn-copy" + i);
 
