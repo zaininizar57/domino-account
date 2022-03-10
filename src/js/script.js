@@ -268,7 +268,7 @@ for (let i = 0; i < account.account.length; i++) {
   const pNick = document.createElement("p");
   pNick.setAttribute("class", "text-sm leading-none text-gray-600 ml-2");
 
-  pNick.innerHTML = nickname;
+  pNick.innerHTML = i + 1;
 
   divId.setAttribute("class", "flex items-center pl-5");
   pId.setAttribute(
@@ -321,9 +321,9 @@ for (let i = 0; i < account.account.length; i++) {
   );
   colCheck.appendChild(divContainerCheck);
   // col.innerHTML = nickname;
-  row.appendChild(colCheck);
-  row.appendChild(colId);
   row.appendChild(colNick);
+  row.appendChild(colId);
+  row.appendChild(colCheck);
   row.appendChild(colCopy);
   tableAccount.appendChild(row);
 
