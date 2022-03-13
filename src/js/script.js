@@ -305,11 +305,11 @@ for (let i = 0; i < account.account.length; i++) {
   divId.setAttribute("class", "flex items-center pl-5");
   pId.setAttribute(
     "class",
-    "text-base font-medium leading-none text-gray-700 mr-2"
+    "text-base leading-none text-gray-700 mr-2"
   );
 
   const colCopy = document.createElement("td");
-  colCopy.setAttribute("class", "pl-4");
+  colCopy.setAttribute("class", "flex flex-row justify-end mr-2 py-2");
 
   const btnCopy = document.createElement("button");
   btnCopy.setAttribute(
@@ -347,9 +347,10 @@ for (let i = 0; i < account.account.length; i++) {
   divContainerCheck.appendChild(divCheck);
 
   row.setAttribute("tabindex", i);
+  row.setAttribute("id", "row" + i);
   row.setAttribute(
     "class",
-    "focus:outline-none h-16 border border-gray-100 rounded"
+    "focus:outline-none rounded"
   );
   colCheck.appendChild(divContainerCheck);
   // col.innerHTML = nickname;
@@ -359,8 +360,17 @@ for (let i = 0; i < account.account.length; i++) {
   row.appendChild(colCopy);
   tableAccount.appendChild(row);
 
+
+  const isChecked = document.getElementById("check" + i);
+
   btnCopy.addEventListener("click", () => {
     navigator.clipboard.writeText(id);
-    document.getElementById("check" + i).checked = true;
+    isChecked.checked = true;
+    document.getElementById("row" + i).classList.add("bg-indigo-200");
   });
+  
+  isChecked.addEventListener('change', ()=> {
+    document.getElementById("row" + i).classList.remove("bg-indigo-200");
+  });
+  
 }
