@@ -1,14 +1,6 @@
 const account = {
   account: [
     {
-      id: "140401600",
-      nickname: "-",
-    },
-    {
-      id: "221656920",
-      nickname: "-",
-    },
-    {
       id: "240788820",
       nickname: "-",
     },
@@ -18,10 +10,6 @@ const account = {
     },
     {
       id: "180615440",
-      nickname: "-",
-    },
-    {
-      id: "139469150",
       nickname: "-",
     },
     {
@@ -38,10 +26,6 @@ const account = {
     },
     {
       id: "223166981",
-      nickname: "-",
-    },
-    {
-      id: "234811412",
       nickname: "-",
     },
     {
@@ -123,14 +107,6 @@ const account = {
       nickname: "-",
     },
     {
-      id: "180594667",
-      nickname: "-",
-    },
-    {
-      id: "138572787",
-      nickname: "-",
-    },
-    {
       id: "180610218",
       nickname: "-",
     },
@@ -193,10 +169,6 @@ const account = {
       nickname: "-",
     },
     {
-      id: "304625875",
-      nickname: "-",
-    },
-    {
       id: "282456569",
       nickname: "-",
     },
@@ -214,11 +186,6 @@ const account = {
     },
     {
       id: "282458824",
-      nickname: "-",
-    },
-    //SADSA
-    {
-      id: "283471384",
       nickname: "-",
     },
     {
