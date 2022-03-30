@@ -522,6 +522,11 @@ for (let i = 0; i < account.account.length; i++) {
   );
   btnCopy.setAttribute("id", "btn-copy" + i);
 
+  if (id == '135912429') {
+    pId.setAttribute("class", "bg-red-300");
+    pId.setAttribute("style", "text-decoration-line: line-through; text-decoration-color: blue;");
+  }
+
   btnCopy.innerHTML = "Copy";
 
   colCopy.appendChild(btnCopy);
