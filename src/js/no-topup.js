@@ -28,10 +28,7 @@ const account = {
       id: "223166981",
       nickname: "-",
     },
-    {
-      id: "223004332",
-      nickname: "-",
-    },
+    
 
     //SADS
     {
@@ -100,18 +97,12 @@ const account = {
     },
 
     //SADSA
-    {
-      id: "224352588",
-      nickname: "-",
-    },
+    
     {
       id: "139945479",
       nickname: "-",
     },
-    {
-      id: "241349809",
-      nickname: "-",
-    },
+   
     
     {
       id: "241348117",
