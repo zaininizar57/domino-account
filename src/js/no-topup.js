@@ -204,105 +204,134 @@ const account = {
       id: "322898640",
       nickname: "-",
     },
-{
+    {
       id: "316345739",
       nickname: "-",
     },
-{
+    {
       id: "315707033",
       nickname: "-",
     },
-{
+    {
       id: "333389198",
       nickname: "-",
     },
-{
+    {
       id: "315712502",
       nickname: "-",
     },
-{
+    {
       id: "316347367",
       nickname: "-",
     },
-{
+    {
       id: "333219806",
       nickname: "-",
     },
-{
+    {
       id: "333384114",
       nickname: "-",
     },
-{
+    {
       id: "333390820",
       nickname: "-",
     },
-{
+    {
       id: "333393449",
       nickname: "-",
     },
-{
+    {
       id: "333395838",
       nickname: "-",
     },
-{
+    {
       id: "333397099",
       nickname: "-",
     },
-{
+    {
       id: "333400565",
       nickname: "-",
     },
 
     { 
- ​      ​id​: ​"338295944"​, 
- ​      ​nickname​: ​"-"​, 
- ​    ​}​,
- 			{ 
- ​      ​id​: ​"336271215"​, 
- ​      ​nickname​: ​"-"​, 
- ​    ​}​,		
-     {
- 	id: "336358006",
- 	nickname: "-",
-     },
-     {
- 	id: "336382923",
- 	nickname: "-",
-      },
-      {
- 	id: "336272016",
- 	nickname: "-",
-      },
-      {
- 	id: "338159099",
- 	nickname: "-",
-      },
-      {
- 	id: "338144626",
- 	nickname: "-",
-      },
- 			{
- 					id: "339374285",
- 					nickname: "-",
- 			},
- 			{
- 					id: "338154380",
- 					nickname: "-",
- 			},
- 			{
- 					id: "338889856",
- 					nickname: "-",
- 			},
- 			{
- 					id: "338897652",
- 					nickname: "-",
- 			},
- 			{
- 					id: "338295949",
- 					nickname: "-",
- 			},
+      id : "338295944", 
+      nickname : "-", 
+    },
+    { 
+      id: "336271215", 
+      nickname: "-", 
+    },		
+    {
+      id: "336358006",
+      nickname: "-",
+    },
+    {
+      id: "336382923",
+      nickname: "-",
+    },
+    {
+      id: "336272016",
+      nickname: "-",
+    },
+    {
+      id: "338159099",
+      nickname: "-",
+    },
+    {
+      id: "338144626",
+      nickname: "-",
+    },
+    {
+      id: "339374285",
+      nickname: "-",
+    },
+    {
+      id: "338154380",
+      nickname: "-",
+    },
+    {
+      id: "338889856",
+      nickname: "-",
+    },
+    {
+      id: "338897652",
+      nickname: "-",
+    },
+    {
+      id: "338295949",
+      nickname: "-",
+    },
+    {
+      id: "339608145",
+      nickname: "-",
+    },
+    {
+      id: "338881427",
+      nickname: "-",
+    },
+    {
+      id: "338881427",
+      nickname: "-",
+    },
+    {
+      id: "338878114",
+      nickname: "-",
+    },
+    {
+      id: "339372943",
+      nickname: "-",
+    },
+    {
+      id: "338935706",
+      nickname: "-",
+    },
+    {
+      id: "338150017",
+      nickname: "-",
+    },
   ],
 };
+
 
 const tableAccount = document.getElementById("table-account");
 
