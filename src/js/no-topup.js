@@ -17,10 +17,6 @@ const account = {
       nickname: "-",
     },
     {
-      id: "225823441",
-      nickname: "-",
-    },
-    {
       id: "140391971",
       nickname: "-",
     },
@@ -33,10 +29,6 @@ const account = {
     //SADS
     {
       id: "140387162",
-      nickname: "-",
-    },
-    {
-      id: "140388982",
       nickname: "-",
     },
     {
@@ -55,20 +47,13 @@ const account = {
       id: "181661623",
       nickname: "-",
     },
-    {
-      id: "220328923",
-      nickname: "-",
-    },
+    
     // {
     //   id: "178117533",
     //   nickname: "-",
     // },
     {
       id: "233522154",
-      nickname: "-",
-    },
-    {
-      id: "177543994",
       nickname: "-",
     },
     {
@@ -165,10 +150,6 @@ const account = {
       nickname: "-",
     },
     {
-      id: "283462706",
-      nickname: "-",
-    },
-    {
       id: "283461210",
       nickname: "-",
     },
@@ -206,10 +187,6 @@ const account = {
     },
     {
       id: "316345739",
-      nickname: "-",
-    },
-    {
-      id: "315707033",
       nickname: "-",
     },
     {
@@ -310,7 +287,7 @@ const account = {
       nickname: "-",
     },
     {
-      id: "338881427",
+      id: "339622699",
       nickname: "-",
     },
     {
