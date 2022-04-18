@@ -20,10 +20,7 @@ const account = {
       id: "140391971",
       nickname: "-",
     },
-    {
-      id: "223166981",
-      nickname: "-",
-    },
+    
     
 
     //SADS
@@ -68,10 +65,7 @@ const account = {
       id: "140398535",
       nickname: "-",
     },
-    {
-      id: "229634355",
-      nickname: "-",
-    },
+    
     {
       id: "181663037",
       nickname: "-",
@@ -109,10 +103,7 @@ const account = {
       id: "260663624",
       nickname: "-",
     },
-    {
-      id: "279493408",
-      nickname: "-",
-    },
+    
     {
       id: "281076601",
       nickname: "-",
@@ -141,10 +132,7 @@ const account = {
       id: "283468376",
       nickname: "-",
     },
-    {
-      id: "282445207",
-      nickname: "-",
-    },
+    
     {
       id: "282446274",
       nickname: "-",
@@ -274,10 +262,7 @@ const account = {
       id: "338897652",
       nickname: "-",
     },
-    {
-      id: "338295949",
-      nickname: "-",
-    },
+    
     {
       id: "339608145",
       nickname: "-",
