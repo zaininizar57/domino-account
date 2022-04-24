@@ -1,25 +1,11 @@
 const account = {
   account: [
-    {
-      id: "240788820",
-      nickname: "-",
-    },
-    {
-      id: "181658430",
-      nickname: "-",
-    },
+    
     {
       id: "180615440",
       nickname: "-",
     },
-    {
-      id: "225292790",
-      nickname: "-",
-    },
-    {
-      id: "140391971",
-      nickname: "-",
-    },
+    
     
     //SADS
     {
@@ -143,10 +129,7 @@ const account = {
       id: "283457720",
       nickname: "-",
     },
-    {
-      id: "314586197",
-      nickname: "-",
-    },
+    
     {
       id: "314598575",
       nickname: "-",
